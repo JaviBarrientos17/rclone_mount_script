@@ -25,5 +25,5 @@
     6. In this folder, you will drag your .bat file, and if did everything correctly, restart your computer, and your new rclone mount, will appear at
     your windows file explorer.
 
-    ![Alt text](https://i.imgur.com/xyhX9wG.png "Mapped rclone mount")
+    ![xyhX9wG](https://user-images.githubusercontent.com/44582104/223495897-6b6addac-1ca6-4989-bbc7-8c7239e6851b.png)
 
