@@ -14,8 +14,8 @@
     example, K.
 
     Example of the needed command --> rclone mount --vfs-cache-mode full mystuff:/ k:
-
-    ![Alt text](https://i.imgur.com/egyrxav.png "Code img")
+    
+    ❮img src="images/egyrxav.png" ❯
 
     4. When you have finished these three steps, you need to make the the key combination "Win+R" to open the "Run" prompt.
 
@@ -25,5 +25,5 @@
     6. In this folder, you will drag your .bat file, and if did everything correctly, restart your computer, and your new rclone mount, will appear at
     your windows file explorer.
 
-    ![xyhX9wG](https://user-images.githubusercontent.com/44582104/223495897-6b6addac-1ca6-4989-bbc7-8c7239e6851b.png)
+    ❮img src="images/xyhX9wG.png" ❯
 
